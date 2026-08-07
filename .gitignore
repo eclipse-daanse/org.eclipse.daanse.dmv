@@ -1,0 +1,34 @@
+/.idea
+*.iml
+target
+*~
+*.log
+.settings
+.classpath
+.project
+.gradle
+deploy_local.sh
+deploy.sh
+bin
+build
+nbproject
+generated
+
+# ANTLR
+.antlr/
+
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+pnpm-debug.log*
+
+# Editor directories and files
+.vscode
+*.suo
+*.ntvs*
+*.sw?
+.flattened-pom.xml
